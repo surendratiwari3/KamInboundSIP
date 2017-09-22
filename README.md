@@ -10,7 +10,7 @@ blocking the attacker,LCR for carriers.
 This solution is well tested using sipp with 50 cps.in this solution we have used redis to get the routing details so we are 
 actually removed the latency and overhead of other sql database engine.we are storing the cdr in mongodb (nosql database).
 
-we have used iptabeles to block the attackers.
+we have used iptables to block the attackers.
 
 # Installation
 
