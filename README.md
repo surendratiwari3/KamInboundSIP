@@ -12,4 +12,13 @@ actually removed the latency and overhead of other sql database engine.we are st
 
 we have used iptabeles to block the attackers.
 
+# Installation
+
+## Step 1: Setting up the Redis Keys and Redis Script for KamInboundSIP 
+
+
+## Step 2 : Setting up the kamailio cfg
+
+Copy the all files in your kamailio directory.set the redis url and mongodb url,rtpengine socket in cfg.restart the kamailio.
+
 
