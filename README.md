@@ -22,3 +22,4 @@ we have used iptables to block the attackers.
 Copy the all files in your kamailio directory.set the redis url and mongodb url,rtpengine socket in cfg.restart the kamailio.
 
 
+# We are Working on Frontend part we will update the frontend repository soon.
