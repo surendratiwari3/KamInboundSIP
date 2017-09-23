@@ -97,6 +97,6 @@ eg. HMSET direct:<DID/TFN> dstUri <IP:PORT> dnis <DID/TFN/Entity_on_dstUri>
 
 ```
 
-####This makes the Proxy Ready for Use
-Note : if you find any difficulty while using KamInboundSIP please let us know at surendratiwari3@gmail.com
+#### This makes the Proxy Ready for Use
+#### Note : if you find any difficulty while using KamInboundSIP please let us know at surendratiwari3@gmail.com
 ## We are Working on Web part we will update the frontend repository soon.
