@@ -1,6 +1,6 @@
  HMSET did:23418889700 custId 2222 carrierId 1111 countryId 1 billType 1 channel 2 rtpEngine 1 routingType 1
  HMSET did:23418889701 custId 2222 carrierId 1111 countryId 1 billType 1 channel 2 rtpEngine 1 routingType 1
- SADD carrierIPAddrs:1111 188.244.114.8 
+ SADD carrierIPs:1111 188.244.114.8 
  HMSET direct:23418889700 dstUri 14703993047 dnis 14703993047
  HMSET direct:23418889701 dstUri 14703993047 dnis 14703993047
  HMSET customer:2222 routeId 3333 balance 700
