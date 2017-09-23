@@ -71,7 +71,7 @@ eg. HMSET direct:<DID/TFN> dstUri <IP:PORT> dnis <DID/TFN/Entity_on_dstUri>
 #!define MONGOPATH "name=mgs1;uri='mongodb://192.168.2.46:27017/kamailio'"
 ```
 
-##Step 3 : Initialise MongoDB Instance
+## Step 3 : Initialise MongoDB Instance
  
 1. Create a database with name kamailio
 2. Create collection version and put the below values
